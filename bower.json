@@ -1,0 +1,21 @@
+{
+  "name": "test",
+  "description": "just testing",
+  "main": "index.js",
+  "authors": [
+    "sanvasu <santhiya.vasudev@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "^3.2.0",
+    "aos": "jquery-aos#^2.1.1"
+  }
+}
